@@ -37,6 +37,7 @@
  &trans        &trans             &kp AT            &trans        &trans        &trans                    &trans          &trans        &trans           &trans     &kp EQUAL  &kp STAR  &kp AMPERSAND  &kp MINUS  &trans  &trans  &trans
                &trans             &trans            &trans        &trans        &trans                    &trans          &trans        &trans           &trans        &trans
             >;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
         };
 
     };
