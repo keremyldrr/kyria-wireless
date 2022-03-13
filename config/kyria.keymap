@@ -23,14 +23,14 @@
 
         default_layer {
             bindings = <
-     &kp C_MUTE   &kp Q     &kp     &kp     &kp        &kp              &kp     &kp        &kp     &kp     &bt  &bt BT_CLR
- &mt LSHIFT TAB     &mt     &mt     &mt     &mt        &kp              &kp     &mt        &mt     &mt     &mt         &kp
-  &mt RCTRL ESC     &kp     &kp     &kp     &kp        &kp &kp SPACE    &kp &kp     &kp        &kp     &kp     &kp         &kp
-                    &kp     &kp     &kp     &kp     &kp SPACE           &kp RET  &kp     &kp  &kp  &kp
+     &kp C_MUTE       &kp Q       &kp W        &kp E        &kp R   &kp T            &kp Y        &kp U         &kp I       &kp O               &kp P  &bt BT_CLR
+ &mt LSHIFT TAB  &mt LGUI A  &mt LALT S  &mt LSHFT D  &mt LCTRL F   &kp G            &kp H  &mt LCTRL J  &mt LSHIFT K  &mt LALT L  &mt RGUI SEMICOLON    &kp BSPC
+  &mt RCTRL ESC       &kp Z       &kp X        &kp C        &kp V   &kp B            &kp N        &kp M     &kp COMMA     &kp DOT           &kp SLASH  &kp RSHIFT
+                                                 &kp          &kp     &kp              &kp          &kp           &kp
             >;
         };
 
-        layer_Num {
+        layer_layer_Num {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans
