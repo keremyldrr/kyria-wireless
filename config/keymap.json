@@ -1,0 +1,22 @@
+{
+  "keyboard": "unknown",
+  "keymap": "unknown",
+  "layout": "unknown",
+  "layer_names": [
+    "default",
+    "Num"
+  ],
+  "layers": [
+    [
+           "&kp C_MUTE",  "&kp Q",    "&kp",    "&kp",    "&kp",       "&kp",           "&kp",    "&kp",       "&kp",    "&kp",    "&bt", "&bt BT_CLR",
+       "&mt LSHIFT TAB",    "&mt",    "&mt",    "&mt",    "&mt",       "&kp",           "&kp",    "&mt",       "&mt",    "&mt",    "&mt",        "&kp",
+        "&mt RCTRL ESC",    "&kp",    "&kp",    "&kp",    "&kp",       "&kp",           "&kp",    "&kp",       "&kp",    "&kp",    "&kp",        "&kp",
+                                                "&kp",    "&kp", "&kp SPACE",           "&kp",    "&kp", "&kp ENTER"
+    ], [
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+                                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans"
+    ]
+  ]
+}
