@@ -23,14 +23,14 @@
 
         default_layer {
             bindings = <
-    &kp C_MUTE          &kp Q    &kp W      &kp E   &kp R      &kp T                       &kp Y                 &kp U                  &kp I              &kp O     &kp P  &bt BT_CLR
- &mt LSHFT TAB          &kp A    &kp S      &kp D   &kp F      &kp G                       &kp H                 &kp J                  &kp K              &kp L  &kp SEMI     &kp SQT
- &mt LCTRL ESC          &kp Z    &kp X      &kp C   &kp V      &kp B            &kp LEFT_BRACKET  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET     &kp N       &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp DELETE  &kp LGUI
-                &kp BACKSLASH  &kp RET  &kp SPACE   &mo 1  &kp ENTER                       &mo 1               &kp TAB               &kp BSPC           &kp RALT     &kp A
+    &kp C_MUTE          &kp Q    &kp W   &kp E      &kp R      &kp T                       &kp Y                 &kp U                  &kp I              &kp O     &kp P  &bt BT_CLR
+ &mt LSHFT TAB          &kp A    &kp S   &kp D      &kp F      &kp G                       &kp H                 &kp J                  &kp K              &kp L  &kp SEMI     &kp SQT
+ &mt LCTRL ESC          &kp Z    &kp X   &kp C      &kp V      &kp B            &kp LEFT_BRACKET  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET     &kp N       &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp DELETE  &kp LGUI
+                &kp BACKSLASH  &kp RET   &mo 1  &kp SPACE  &kp ENTER                       &mo 1               &kp TAB               &kp BSPC           &kp RALT     &kp A
             >;
         };
 
-        layer_Layer__1 {
+        layer_layer_Layer__1 {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans
