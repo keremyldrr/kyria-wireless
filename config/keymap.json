@@ -13,10 +13,10 @@
        "&mt LCTRL ESC",         "&kp Z",   "&kp X",  "&kp C",     "&kp V",     "&kp B",           "&kp LEFT_BRACKET", "&kp LEFT_PARENTHESIS", "&kp RIGHT_PARENTHESIS", "&kp RIGHT_BRACKET",    "&kp N",      "&kp M", "&kp COMMA", "&kp DOT", "&kp FSLH", "&kp DELETE", "&kp LGUI",
                         "&kp BACKSLASH", "&kp RET",  "&mo 1", "&kp SPACE", "&kp ENTER",                      "&mo 1",              "&kp TAB",              "&kp BSPC",          "&kp RALT",    "&kp A"
     ], [
-       "&trans", "&kp KP_NUMBER_1", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",          "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans",          "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-                          "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans", "&kp NUMBER_1", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans",       "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans",       "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+                       "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }

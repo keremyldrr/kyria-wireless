@@ -32,10 +32,10 @@
 
         layer_layer_Layer__1 {
             bindings = <
- &trans  &kp KP_NUMBER_1  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans
- &trans           &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans
- &trans           &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-                  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans
+ &trans  &kp NUMBER_1  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans
+ &trans        &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans
+ &trans        &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+               &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans
             >;
         };
 
