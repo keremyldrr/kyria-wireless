@@ -28,6 +28,8 @@
  &mt LCTRL ESC                 &kp Z     &kp X         &kp C               &kp V      &kp B            &kp LEFT_BRACKET  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET     &kp N       &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp DELETE  &kp BSLH
                 &kp NON_US_BACKSLASH  &kp LALT         &mo 1           &kp SPACE  &kp ENTER                       &mo 1               &kp ESC               &kp BSPC           &kp RALT     &kp A
             >;
+            			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
+
         };
 
         layer_layer_layer_Layer__1 {
